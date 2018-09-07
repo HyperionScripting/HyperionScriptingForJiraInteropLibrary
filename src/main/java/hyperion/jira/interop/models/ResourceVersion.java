@@ -11,6 +11,7 @@ public class ResourceVersion {
     public static final ResourceVersion V7_9 = new ResourceVersion(7, 9);
     public static final ResourceVersion V7_10 = new ResourceVersion(7, 10);
     public static final ResourceVersion V7_11 = new ResourceVersion(7, 11);
+    public static final ResourceVersion V7_12 = new ResourceVersion(7, 12);
     public static final ResourceVersion LOWER_UNBOUND = new ResourceVersion(0, 0);
     public static final ResourceVersion UPPER_UNBOUND = new ResourceVersion(9999, 9999);
     private int majorVersion;
